@@ -1,15 +1,15 @@
 # Current State
 
-Updated: 2026-09-07
+Updated: 2026-09-17
 
 ## Current Assessment
 
 - **Real-time Speaking:** B1+
 - **Prepared Speaking:** B2-
-- **Grammar Drills:** approximately B2- in controlled exercises, less stable in spontaneous speech
-- **Retelling:** B1+; meaning retention and logical reconstruction are generally good, while grammatical accuracy and natural phrasing become less stable during spontaneous retelling
+- **Grammar Drills:** approximately B2- in controlled exercises; noticeably less automatic in spontaneous speech
+- **Retelling:** B1+; meaning retention, causal structure, and logical sequence are generally reliable, while grammatical stability and natural phrasing still weaken during longer spontaneous retells
 
-Overall pattern: the learner can understand and discuss relatively complex analytical ideas, but real-time fluency and grammatical stability still lag behind conceptual ability. Performance improves noticeably when the learner has even a small amount of preparation time.
+Overall pattern: the learner can discuss fairly complex professional and analytical topics and has enough vocabulary to communicate the intended meaning. The main gap between current performance and stable B2 professional speaking remains automaticity: sentence construction, lexical grammar, and grammatical stability under real-time pressure.
 
 ## Current Practice Focus
 
@@ -17,43 +17,81 @@ Current approximate weighting:
 - **60% Job Interview English**
 - **40% Everyday professional communication in an English-speaking company**
 
-Interview preparation is the immediate priority, but workplace English should remain a regular part of practice.
+Interview preparation remains the immediate priority. Current interview practice should include both general interview answers and technical/product-analytics explanations.
 
-Workplace practice should include meetings, analytical discussions, clarification questions, explaining findings, disagreement, status updates, and other everyday professional situations.
+Workplace practice should continue to include meetings, analytical discussions, clarification questions, explaining findings, disagreement, status updates, and informal professional conversation.
 
 ## Current Bottlenecks
 
 - pauses while constructing sentences from scratch;
 - occasional translation from Russian before speaking;
-- article omissions and article-choice errors in spontaneous speech;
-- occasional subject-verb agreement mistakes under pressure;
-- tense consistency can weaken during longer spontaneous answers;
-- verb patterns and prepositions are not always automatic in spontaneous speech;
+- articles remain unstable in spontaneous speech;
+- occasional subject-verb agreement and tense slips under pressure;
+- fixed prepositions and lexical grammar are not yet automatic;
+- phrasal verbs are understood increasingly well but active choice between similar verbs still requires practice;
 - natural collocations sometimes require correction even when the intended meaning is clear;
-- answers sometimes become unnecessarily complex instead of using shorter reusable patterns;
-- grammatical accuracy decreases when simultaneously trying to preserve a longer context or explain a complex idea.
+- longer answers can become unnecessarily complex instead of using shorter reusable patterns;
+- grammatical accuracy decreases when simultaneously recalling information and restructuring it during retelling.
 
 ## Current Strengths
 
 - strong ability to understand and explain analytical concepts;
-- good professional vocabulary in Product Analytics and experimentation;
-- solid passive grammar knowledge;
+- good professional vocabulary in Product Analytics, experimentation, statistics, and causal inference;
+- can give extended professional explanations when the subject matter is familiar;
 - good comprehension of corrections and grammar explanations;
-- can usually improve a sentence quickly after feedback;
-- increasingly able to produce short structured professional answers;
-- generally retains the main meaning and logical sequence during retelling;
-- can compress a source story and reproduce its causal structure rather than simply repeat individual sentences;
+- can usually incorporate feedback quickly;
+- increasingly able to use useful analytical phrasal verbs and lexical chunks in context;
+- generally retains the main meaning, causal relationships, and logical sequence during retelling;
+- can paraphrase source material rather than simply reproduce it;
 - can communicate the intended meaning even when grammar and phrasing are imperfect.
 
-## Grammar Priorities
+## Grammar and Lexical Priorities
 
 ### High priority
 
-- articles, especially in spontaneous speech;
-- contrast / concession linkers;
+- fixed prepositions / lexical grammar, especially professional collocations;
+- articles in spontaneous speech;
 - gerund vs infinitive and common verb patterns;
 - tense stability in longer answers;
-- common preposition and collocation patterns.
+- contrast / concession linkers.
+
+### Active lexical-grammar set
+
+Recycle these through spaced retrieval and professional contexts:
+- consistent with;
+- indicative of;
+- result in / result from;
+- account for;
+- provide someone with;
+- take into account;
+- prevent someone from doing something;
+- successful in doing something;
+- lead to + noun / -ing;
+- be explained by;
+- distinguish between.
+
+### Phrasal verbs in active rotation
+
+Continue contextual practice with:
+- look into;
+- figure out;
+- carry out;
+- work out;
+- sort out;
+- rule out;
+- phase out;
+- narrow down;
+- turn out;
+- follow up;
+- come across;
+- point out;
+- put off;
+- hold off;
+- go through;
+- call off;
+- take up.
+
+Pay particular attention to semantic distinctions between near-synonyms, for example **work out** vs **sort out**, and **put off** vs **hold off**.
 
 ### Regular spaced repetition
 
@@ -64,51 +102,54 @@ Workplace practice should include meetings, analytical discussions, clarificatio
 - conditionals;
 - relative clauses;
 - used to / be used to / get used to;
-- phrasal verbs and common professional verb patterns.
+- past perfect in natural spoken contexts;
+- there's no point (in) + -ing.
 
 ## Recent Practice Patterns
 
-Recent speaking work has included:
-- analytical workflow explanations;
-- interview-style analytical questions;
-- explaining how to investigate metric changes;
-- describing experiments and data-quality problems;
-- discussing when to continue or stop an analytical investigation;
-- short professional stories;
-- short retelling exercises;
-- sentence-by-sentence improvement of useful professional phrases.
+Recent work has included:
+- interview answer practice, including a longer “Tell me about yourself” answer;
+- explaining professional experience in Product Analytics and experimentation;
+- analytical workflow explanations and experiment methodology;
+- fixed-preposition and lexical-grammar practice;
+- professional collocations such as **account for**, **provide someone with**, **take into account**, **result from**, and **lead to**;
+- focused phrasal-verb practice in analytical and workplace contexts;
+- distinguishing related phrasal verbs by meaning rather than translating them directly;
+- short retelling exercises based on product and operational problems;
+- reconstructing causal sequences in retelling using the learner's own words;
+- everyday real-time small talk alongside professional speaking.
 
-Recent Retelling work shows that the learner can usually:
-- retain the main sequence of events;
-- identify the important causal relationships;
-- omit unnecessary details;
-- reconstruct the story in their own words.
+Recent Retelling performance shows that the learner can usually preserve the key chain:
+**problem → investigation → finding → action → result**.
 
-The main remaining Retelling difficulty is maintaining natural grammar and phrasing while simultaneously recalling and restructuring the source information.
+The main Retelling limitation remains language automaticity rather than comprehension or memory.
 
 ## Useful Emerging Patterns
 
-Encourage reusable patterns such as:
-- "First, I'll check the data."
-- "Then I'll segment the data to locate the impact."
-- "I'd ask the product team what changes they made."
-- "If guardrails dip, we pause and investigate."
-- "I ask clarifying questions early so the work stays on track."
-- "I investigated the issue and found that some events were not being sent."
-- "The problem mostly affected one specific segment."
-- "After the team fixed the issue, the metric recovered."
+Recycle naturally in new contexts:
+- "I'd look into the data first."
+- "We managed to narrow down the issue to one specific cause."
+- "The team decided to hold off on the rollout until we had more data."
+- "We had to rule out several possible explanations."
+- "The decline resulted from changes to the matching algorithm."
+- "Enterprise customers account for only a small share of the total user base."
+- "We should take seasonality into account before comparing the two periods."
+- "The analysis provided the product team with enough evidence to reject the original hypothesis."
+- "Poor onboarding can lead to an increase in churn."
+- "After the team adjusted the algorithm, the metric improved."
 
-These should be recycled naturally in new contexts rather than memorized as fixed scripts.
+These are reusable building blocks, not scripts to memorize verbatim.
 
 ## Next Priorities
 
-1. Continue Real-time Speaking with short professional and interview-style questions.
-2. Build spontaneous answers from 2-3 sentences toward stable 4-5 sentence answers without unnecessarily increasing sentence complexity.
-3. Transfer recurring problems discovered in Real-time Speaking into Prepared Speaking tasks and test them again in new contexts.
-4. Continue Retelling at the current difficulty and increase source length gradually rather than aggressively.
-5. Practice maintaining grammatical stability while reconstructing longer information from memory.
-6. Keep articles, verb patterns, and contrast/concession grammar in regular rotation.
-7. Recycle useful professional sentence patterns across different scenarios rather than repeatedly drilling the same corrected sentence.
-8. Keep corrections selective during Real-time Speaking: normally one repetition of an improved sentence is enough.
-9. Maintain roughly a 60/40 balance between interview preparation and everyday workplace English.
-10. Reassess the four CEFR tracks periodically and change a level only after improvement is stable across multiple sessions and task types.
+1. Keep Real-time Speaking at B1+/B2- transition difficulty: short spontaneous professional answers followed by realistic follow-up questions.
+2. Prioritize automatic use of fixed prepositions, lexical grammar, and professional collocations.
+3. Continue phrasal-verb practice, increasingly testing semantic choice between similar verbs rather than simple recall.
+4. Continue interview practice, especially concise answers about experimentation experience, analytical decisions, failures, stakeholder communication, and professional background.
+5. Build stable 4-5 sentence spontaneous answers without increasing sentence complexity unnecessarily.
+6. Transfer recurring Real-time errors into Prepared Speaking in new professional contexts.
+7. Continue Retelling with gradual increases in length while preserving the current focus on causal structure and own-word paraphrasing.
+8. Keep articles and tense stability in rotation, but avoid interrupting fluency to correct isolated slips.
+9. Continue spaced repetition of previously learned grammar rather than concentrating only on newly discovered weaknesses.
+10. Maintain roughly a 60/40 balance between interview preparation and everyday workplace English.
+11. Keep CEFR ratings conservative. Raise a track only after the higher-level performance is sustained across multiple sessions and task types.
