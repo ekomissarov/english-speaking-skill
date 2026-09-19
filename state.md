@@ -94,14 +94,41 @@ Do not infer completion of specific Murphy units from topic familiarity alone. K
 
 ### Unit-level progress
 
-Track individual *English Grammar in Use* units as they are explicitly tested or practiced.
+Initial map reconstructed from the detailed Grammar Drills assessment after Q520 (2026-09-17), covering all 145 units.
 
-Status format:
-`Unit N — status — last checked: YYYY-MM-DD`
+Status mapping: **stable** = strong; **review** = generally known but needs spaced retrieval; **weak** = recurring errors; **learning** = insufficient/light sampling; **not covered** = not meaningfully tested.
 
-No reliable unit-level history has been established yet.
+#### Stable
+**Units 1–16, 18, 20–21, 25–26, 29, 38–39, 42–44, 46, 49–50, 56, 59, 61, 65, 85–86, 92–93, 100, 102–103, 105, 111, 113**
 
-From this point onward, update the relevant unit after meaningful practice or assessment. Do not mark a unit as stable based on a single correct answer.
+#### Review
+**Units 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 54, 57–58, 60, 63–64, 69–71, 73, 75, 79, 87–91, 94–96, 101, 106–107, 109–110, 115, 119–121, 128–129, 137–141**
+
+#### Weak
+**Units 53, 55, 62, 72, 130–136**
+
+Highest-priority weaknesses:
+1. **Unit 62** — verb + preposition + -ing;
+2. **Unit 53** — verb + -ing;
+3. **Unit 55** — verb + object + to-infinitive.
+
+Other recurring weakness areas in this group include articles and adjective/verb preposition patterns.
+
+#### Learning / insufficient evidence
+**Units 17, 32, 35, 37, 66, 68, 74, 76, 80–81, 84, 97–99, 104, 108, 112, 114, 116–118, 122–127, 142–145**
+
+#### Not meaningfully tested
+**Units 67, 77–78, 82–83**
+
+Last comprehensive mapping: **2026-09-17**
+
+### Unit tracking rules
+
+- Update a unit after meaningful practice or assessment.
+- Do not mark a unit as **stable** after a single correct answer.
+- Repeated successful retrieval across different sessions is stronger evidence than several answers in one session.
+- A recurring error can move a unit to **weak** even if the rule is understood conceptually.
+- Keep unit-level status and topic-level evidence together in this `state.md`; do not create a separate grammar-state file.
 
 ## Grammar and Lexical Priorities
 
