@@ -1,6 +1,6 @@
 # Current State
 
-Updated: 2026-09-17
+Updated: 2026-09-19
 
 ## Current Assessment
 
@@ -10,6 +10,19 @@ Updated: 2026-09-17
 - **Retelling:** B1+; meaning retention, causal structure, and logical sequence are generally reliable, while grammatical stability and natural phrasing still weaken during longer spontaneous retells
 
 Overall pattern: the learner can discuss fairly complex professional and analytical topics and has enough vocabulary to communicate the intended meaning. The main gap between current performance and stable B2 professional speaking remains automaticity: sentence construction, lexical grammar, and grammatical stability under real-time pressure.
+
+## Speaking Profile
+
+Track speaking as separate capabilities rather than relying only on one overall CEFR estimate.
+
+- **Fluency / automaticity:** B1+
+- **Grammar under pressure:** B1+
+- **Lexical range:** B2-
+- **Lexical retrieval:** B1+/B2-
+- **Answer structure:** B2-
+- **Interactive communication:** insufficient evidence
+
+The main speaking objective is to make existing knowledge more automatic under real-time conversational pressure. Interactive communication needs more direct assessment through clarification, follow-up questions, disagreement, interruption/recovery, negotiation, and unexpected questions.
 
 ## Current Practice Focus
 
@@ -44,6 +57,51 @@ Workplace practice should continue to include meetings, analytical discussions, 
 - generally retains the main meaning, causal relationships, and logical sequence during retelling;
 - can paraphrase source material rather than simply reproduce it;
 - can communicate the intended meaning even when grammar and phrasing are imperfect.
+
+## English Grammar in Use Progress
+
+Use *English Grammar in Use* as a systematic grammar map in addition to error-driven practice.
+
+### Status system
+
+- **not covered** — no meaningful evidence yet;
+- **learning** — currently being studied or recently introduced;
+- **weak** — understood conceptually but recurring errors remain;
+- **stable** — usually handled correctly in controlled practice;
+- **review** — previously studied/stable and scheduled for spaced retrieval.
+
+Where useful, record the **last checked date**. Do not mark a unit as stable after a single correct answer.
+
+### Current topic-level evidence
+
+Detailed unit-by-unit mapping has not yet been established. Until units are explicitly checked against the book:
+
+- **Articles:** weak, especially in spontaneous speech.
+- **Gerund vs infinitive / verb patterns:** learning / weak.
+- **Contrast and concession:** learning / review.
+- **Conditionals:** review.
+- **Modal perfects:** review.
+- **Relative clauses:** review.
+- **Reported speech:** review.
+- **Passive:** stable in controlled use.
+- **Countable / uncountable; less / fewer:** review.
+- **used to / be used to / get used to:** review.
+- **would rather:** review.
+- **Past perfect:** review in natural spoken contexts.
+- **Prepositions / lexical grammar:** weak / high priority.
+
+Do not infer completion of specific Murphy units from topic familiarity alone. Keep both topic-level and unit-level progress in this `state.md` file.
+
+### Unit-level progress
+
+Track individual *English Grammar in Use* units as they are explicitly tested or practiced.
+
+Status format:
+`Unit N — status — last checked: YYYY-MM-DD`
+
+No reliable unit-level history has been established yet.
+
+From this point onward, update the relevant unit after meaningful practice or assessment. Do not mark a unit as stable based on a single correct answer.
 
 ## Grammar and Lexical Priorities
 
