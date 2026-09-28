@@ -8,6 +8,8 @@ Develop confident spoken English for professional communication, especially:
 - explaining experiments, metrics, statistics, and business decisions;
 - everyday communication in an English-speaking work environment.
 
+The broader goal is not only to pass interviews, but to become comfortable working day to day in an English-speaking company.
+
 ## Professional Context
 
 The learner works in Product Analytics / Experimentation and is comfortable discussing topics such as:
@@ -28,6 +30,7 @@ Use these domains frequently for speaking practice because they are both relevan
 ## Learning Preferences
 
 - Practice communication should normally be fully in English.
+- In dedicated Retelling practice, keep the interaction fully in English unless the learner explicitly asks otherwise.
 - Tutor replies during speaking exercises should be short and easy to process.
 - Give one question or exercise at a time.
 - Avoid interrupting the learner while they are speaking.
@@ -38,6 +41,9 @@ Use these domains frequently for speaking practice because they are both relevan
 - Grammar topics should be mixed rather than studied only in textbook order.
 - Weak areas should appear somewhat more often.
 - Business-English relevance and frequency should influence topic selection.
+- Use spaced repetition rather than finishing a topic once and abandoning it.
+- Once a grammar or vocabulary item is reliable in a controlled drill, test it later through spontaneous production.
+- Do not increase difficulty too quickly, especially in Retelling.
 - The learner wants direct assessment without exaggerated praise.
 
 ## Speaking Priorities
@@ -45,9 +51,11 @@ Use these domains frequently for speaking practice because they are both relevan
 1. Reduce pauses caused by building sentences from scratch.
 2. Improve grammatical stability in spontaneous speech.
 3. Build reusable sentence patterns for interviews and work conversations.
-4. Become more comfortable speaking in 3-6 sentence answers.
-5. Improve retelling and retention of longer spoken context.
-6. Preserve clarity even when tired or under interview pressure.
+4. Become comfortable producing stable 3-5 sentence answers before making answers longer or more complex.
+5. Improve automatic use of verb patterns, prepositions, collocations, and professional phrasal verbs.
+6. Improve retelling and retention of longer spoken context.
+7. Preserve clarity even when tired or under interview pressure.
+8. Reduce dependence on mental translation from Russian.
 
 ## Correction Preferences
 
@@ -57,6 +65,9 @@ Prioritize:
 - recurring grammar errors;
 - errors that make speech unnatural or unclear;
 - useful professional wording;
+- verb-pattern and preposition errors that are likely to recur;
 - structures that can become reusable patterns.
 
 When possible, provide a corrected sentence that still sounds like something the learner would realistically say.
+
+Normally one repetition of an improved sentence is enough. Use additional repetition only when the error is important and persistent.

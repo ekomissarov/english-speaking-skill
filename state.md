@@ -1,6 +1,6 @@
 # Current State
 
-Updated: 2026-09-19
+Updated: 2026-09-28
 
 ## Current Assessment
 
@@ -40,7 +40,8 @@ Workplace practice should continue to include meetings, analytical discussions, 
 - occasional translation from Russian before speaking;
 - articles remain unstable in spontaneous speech;
 - occasional subject-verb agreement and tense slips under pressure;
-- fixed prepositions and lexical grammar are not yet automatic;
+- fixed prepositions and lexical grammar are improving but are not yet automatic;
+- verb patterns (gerund / infinitive / object + infinitive / preposition + -ing) remain an active controlled-practice priority;
 - phrasal verbs are understood increasingly well but active choice between similar verbs still requires practice;
 - natural collocations sometimes require correction even when the intended meaning is clear;
 - longer answers can become unnecessarily complex instead of using shorter reusable patterns;
@@ -74,11 +75,9 @@ Where useful, record the **last checked date**. Do not mark a unit as stable aft
 
 ### Current topic-level evidence
 
-Detailed unit-by-unit mapping has not yet been established. Until units are explicitly checked against the book:
-
 - **Articles:** weak, especially in spontaneous speech.
-- **Gerund vs infinitive / verb patterns:** learning / weak.
-- **Contrast and concession:** learning / review.
+- **Gerund vs infinitive / verb patterns:** learning / weak; intensive practice in late September shows improvement but recurring lexical-pattern errors remain.
+- **Contrast and concession:** review / consolidation; generally reliable, with occasional form-choice errors after *despite / in spite of*.
 - **Conditionals:** review.
 - **Modal perfects:** review.
 - **Relative clauses:** review.
@@ -88,13 +87,13 @@ Detailed unit-by-unit mapping has not yet been established. Until units are expl
 - **used to / be used to / get used to:** review.
 - **would rather:** review.
 - **Past perfect:** review in natural spoken contexts.
-- **Prepositions / lexical grammar:** weak / high priority.
+- **Prepositions / lexical grammar:** weak but improving; high priority.
 
 Do not infer completion of specific Murphy units from topic familiarity alone. Keep both topic-level and unit-level progress in this `state.md` file.
 
 ### Unit-level progress
 
-Initial map reconstructed from the detailed Grammar Drills assessment after Q520 (2026-09-17), covering all 145 units.
+The baseline map was reconstructed from the detailed Grammar Drills assessment after Q520 (2026-09-17), covering all 145 units. It is preserved below and updated only where later practice provides meaningful evidence.
 
 Status mapping: **stable** = strong; **review** = generally known but needs spaced retrieval; **weak** = recurring errors; **learning** = insufficient/light sampling; **not covered** = not meaningfully tested.
 
@@ -105,14 +104,13 @@ Status mapping: **stable** = strong; **review** = generally known but needs spac
 **Units 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 54, 57–58, 60, 63–64, 69–71, 73, 75, 79, 87–91, 94–96, 101, 106–107, 109–110, 115, 119–121, 128–129, 137–141**
 
 #### Weak
-**Units 53, 55, 62, 72, 130–136**
+**Units 53, 55, 62, 130–136**
 
 Highest-priority weaknesses:
-1. **Unit 62** — verb + preposition + -ing;
-2. **Unit 53** — verb + -ing;
-3. **Unit 55** — verb + object + to-infinitive.
-
-Other recurring weakness areas in this group include articles and adjective/verb preposition patterns.
+1. **Unit 62** — verb + preposition + -ing; repeated late-September practice still showed inconsistency with patterns such as *object to*, *be opposed to*, and *be committed to* + -ing.
+2. **Unit 53** — verb + -ing; improving, but errors still occur with lexical verb-pattern choice, including negative forms such as *admit + -ing*.
+3. **Unit 55** — verb + object + to-infinitive; improving through focused practice but not yet consistently automatic.
+4. **Units 130–136** — adjective/verb + preposition and related lexical grammar; substantial focused practice has improved retrieval, but the group should remain weak until success is repeated across sessions and spontaneous contexts.
 
 #### Learning / insufficient evidence
 **Units 17, 32, 35, 37, 66, 68, 74, 76, 80–81, 84, 97–99, 104, 108, 112, 114, 116–118, 122–127, 142–145**
@@ -120,25 +118,38 @@ Other recurring weakness areas in this group include articles and adjective/verb
 #### Not meaningfully tested
 **Units 67, 77–78, 82–83**
 
-Last comprehensive mapping: **2026-09-17**
+### Changes since the 2026-09-17 comprehensive mapping
+
+- **Unit 54:** **review → weak**. Late-September verb-pattern drills exposed repeated uncertainty with verbs followed by the to-infinitive, including *fail*, *afford*, and *decline*. This is now an active priority rather than ordinary spaced review.
+- **Unit 53:** remains **weak**, but evidence shows improvement; do not promote yet because errors still recur.
+- **Unit 55:** remains **weak**, with improving performance on object + to-infinitive patterns.
+- **Unit 62:** remains **weak** and is currently the clearest high-priority Murphy unit.
+- **Units 130–136:** remain **weak**. Focused fixed-preposition practice is producing improvement, but repeated cross-session retrieval is still needed before moving individual units to review.
+- **Contrast/concession-related material:** keep in **review / consolidation** rather than high-priority weakness. Recent focused practice was mostly successful, although *despite / in spite of* complement structure still occasionally needed correction.
+- **Units 137–145:** phrasal-verb practice has expanded substantially. Units 137–141 already remain in review; Units 142–145 remain learning because active coverage and semantic discrimination are not yet broad enough to promote them.
+
+Last comprehensive mapping: **2026-09-17**  
+Last evidence-based incremental update: **2026-09-28**
 
 ### Unit tracking rules
 
 - Update a unit after meaningful practice or assessment.
+- Preserve the complete 145-unit map when editing `state.md`; never replace it with only topic-level summaries.
 - Do not mark a unit as **stable** after a single correct answer.
 - Repeated successful retrieval across different sessions is stronger evidence than several answers in one session.
 - A recurring error can move a unit to **weak** even if the rule is understood conceptually.
+- When evidence improves but is not sufficient for promotion, keep the status and record the direction of progress in the change log.
 - Keep unit-level status and topic-level evidence together in this `state.md`; do not create a separate grammar-state file.
 
 ## Grammar and Lexical Priorities
 
 ### High priority
 
-- fixed prepositions / lexical grammar, especially professional collocations;
+- verb patterns, especially Units 53–55 and 62;
+- fixed prepositions / lexical grammar, especially Units 130–136 and professional collocations;
 - articles in spontaneous speech;
-- gerund vs infinitive and common verb patterns;
 - tense stability in longer answers;
-- contrast / concession linkers.
+- transfer of controlled grammar into spontaneous speaking.
 
 ### Active lexical-grammar set
 
@@ -158,31 +169,41 @@ Recycle these through spaced retrieval and professional contexts:
 ### Phrasal verbs in active rotation
 
 Continue contextual practice with:
-- look into;
-- figure out;
-- carry out;
-- work out;
-- sort out;
-- rule out;
-- phase out;
-- narrow down;
-- turn out;
-- follow up;
-- come across;
+- bring up;
 - point out;
 - put off;
+- find out;
+- rule out;
+- come across;
+- sort out;
+- run into;
+- follow up;
+- carry out;
+- look into;
+- look over;
+- go over;
 - hold off;
-- go through;
 - call off;
-- take up.
+- phase out;
+- cut down on;
+- set up;
+- back up;
+- step in;
+- break down;
+- end up;
+- work out;
+- take up;
+- deal with;
+- go through.
 
-Pay particular attention to semantic distinctions between near-synonyms, for example **work out** vs **sort out**, and **put off** vs **hold off**.
+Pay particular attention to semantic distinctions between near-synonyms and related choices rather than simple translation recall.
 
 ### Regular spaced repetition
 
 - would rather;
 - though, including sentence-final use;
 - although / despite / in spite of / whereas;
+- however / nevertheless;
 - modal perfects;
 - conditionals;
 - relative clauses;
@@ -193,48 +214,28 @@ Pay particular attention to semantic distinctions between near-synonyms, for exa
 ## Recent Practice Patterns
 
 Recent work has included:
-- interview answer practice, including a longer “Tell me about yourself” answer;
-- explaining professional experience in Product Analytics and experimentation;
-- analytical workflow explanations and experiment methodology;
+- intensive verb-pattern drills: gerund vs infinitive, object + infinitive, and preposition + -ing;
+- focused contrast/concession practice with *although*, *though*, *despite*, *in spite of*, *whereas*, *while*, *however*, and *nevertheless*;
 - fixed-preposition and lexical-grammar practice;
-- professional collocations such as **account for**, **provide someone with**, **take into account**, **result from**, and **lead to**;
-- focused phrasal-verb practice in analytical and workplace contexts;
-- distinguishing related phrasal verbs by meaning rather than translating them directly;
+- professional phrasal-verb practice with semantic discrimination between related verbs;
+- interview answer practice and professional analytical explanations;
 - short retelling exercises based on product and operational problems;
-- reconstructing causal sequences in retelling using the learner's own words;
-- everyday real-time small talk alongside professional speaking.
+- reconstructing causal sequences in retelling using the learner's own words.
 
 Recent Retelling performance shows that the learner can usually preserve the key chain:
 **problem → investigation → finding → action → result**.
 
 The main Retelling limitation remains language automaticity rather than comprehension or memory.
 
-## Useful Emerging Patterns
-
-Recycle naturally in new contexts:
-- "I'd look into the data first."
-- "We managed to narrow down the issue to one specific cause."
-- "The team decided to hold off on the rollout until we had more data."
-- "We had to rule out several possible explanations."
-- "The decline resulted from changes to the matching algorithm."
-- "Enterprise customers account for only a small share of the total user base."
-- "We should take seasonality into account before comparing the two periods."
-- "The analysis provided the product team with enough evidence to reject the original hypothesis."
-- "Poor onboarding can lead to an increase in churn."
-- "After the team adjusted the algorithm, the metric improved."
-
-These are reusable building blocks, not scripts to memorize verbatim.
-
 ## Next Priorities
 
-1. Keep Real-time Speaking at B1+/B2- transition difficulty: short spontaneous professional answers followed by realistic follow-up questions.
-2. Prioritize automatic use of fixed prepositions, lexical grammar, and professional collocations.
-3. Continue phrasal-verb practice, increasingly testing semantic choice between similar verbs rather than simple recall.
-4. Continue interview practice, especially concise answers about experimentation experience, analytical decisions, failures, stakeholder communication, and professional background.
-5. Build stable 4-5 sentence spontaneous answers without increasing sentence complexity unnecessarily.
-6. Transfer recurring Real-time errors into Prepared Speaking in new professional contexts.
-7. Continue Retelling with gradual increases in length while preserving the current focus on causal structure and own-word paraphrasing.
-8. Keep articles and tense stability in rotation, but avoid interrupting fluency to correct isolated slips.
-9. Continue spaced repetition of previously learned grammar rather than concentrating only on newly discovered weaknesses.
-10. Maintain roughly a 60/40 balance between interview preparation and everyday workplace English.
-11. Keep CEFR ratings conservative. Raise a track only after the higher-level performance is sustained across multiple sessions and task types.
+1. Continue targeted Murphy practice, with Units **53–55, 62, and 130–136** receiving the highest frequency.
+2. Periodically sample units currently marked **learning** or **not meaningfully tested** so that coverage of all 145 units continues to increase.
+3. Use spaced retrieval for **review** units rather than repeatedly drilling only known weaknesses.
+4. Require repeated success across sessions before promoting a unit from weak → review or review → stable.
+5. Keep Real-time Speaking at B1+/B2- transition difficulty: short spontaneous professional answers followed by realistic follow-up questions.
+6. Transfer grammar that succeeds in controlled drills into Prepared Speaking, Retelling, and then Real-time Speaking.
+7. Continue interview practice, especially concise answers about experimentation experience, analytical decisions, failures, stakeholder communication, and professional background.
+8. Continue Retelling with gradual increases in length without increasing difficulty too quickly.
+9. Maintain roughly a 60/40 balance between interview preparation and everyday workplace English.
+10. Keep CEFR ratings conservative. Raise a track only after the higher-level performance is sustained across multiple sessions and task types.
