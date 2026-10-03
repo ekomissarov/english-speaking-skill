@@ -197,6 +197,33 @@ Suggested content:
 - general-interest stories;
 - interview-style examples.
 
+### IELTS Topic Retelling
+
+Maintain a general IELTS-style topic stream in parallel with professional retelling.
+
+Canonical topic categories:
+1. People
+2. Places
+3. Experiences
+4. Work & study
+5. Technology
+6. Objects
+7. Media & culture
+8. Activities
+9. Communication
+10. Future plans
+
+The topic list belongs in `curriculum.md`. Actual coverage, story names, and completed-retelling counts belong only in `state.md`.
+
+For each IELTS story, use this cycle:
+1. present the story;
+2. first retelling;
+3. correction + natural version;
+4. second retelling of the same story;
+5. move to the next story only after the second retelling.
+
+A category can contain multiple stories over time. Revisit categories with different prompts rather than treating one completed story as permanent mastery.
+
 Do not increase length simply because meaning retention is good. Increase difficulty when both retention and language stability are reasonably comfortable.
 
 ## 6. Transfer and Consolidation

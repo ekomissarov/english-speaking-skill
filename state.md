@@ -1,6 +1,6 @@
 # Current State
 
-Updated: 2026-09-28
+Updated: 2026-10-03
 
 ## Current Assessment
 
@@ -101,10 +101,10 @@ Status mapping: **stable** = strong; **review** = generally known but needs spac
 **Units 1–16, 18, 20–21, 25–26, 29, 38–39, 42–44, 46, 49–50, 56, 59, 61, 65, 85–86, 92–93, 100, 102–103, 105, 111, 113**
 
 #### Review
-**Units 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 54, 57–58, 60, 63–64, 69–71, 73, 75, 79, 87–91, 94–96, 101, 106–107, 109–110, 115, 119–121, 128–129, 137–141**
+**Units 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 57–58, 60, 63–64, 69–71, 73, 75, 79, 87–91, 94–96, 101, 106–107, 109–110, 115, 119–121, 128–129, 137–141**
 
 #### Weak
-**Units 53, 55, 62, 130–136**
+**Units 53–55, 62, 130–136**
 
 Highest-priority weaknesses:
 1. **Unit 62** — verb + preposition + -ing; repeated late-September practice still showed inconsistency with patterns such as *object to*, *be opposed to*, and *be committed to* + -ing.
@@ -129,7 +129,7 @@ Highest-priority weaknesses:
 - **Units 137–145:** phrasal-verb practice has expanded substantially. Units 137–141 already remain in review; Units 142–145 remain learning because active coverage and semantic discrimination are not yet broad enough to promote them.
 
 Last comprehensive mapping: **2026-09-17**  
-Last evidence-based incremental update: **2026-09-28**
+Last evidence-based incremental update: **2026-10-03**
 
 ### Unit tracking rules
 
@@ -140,6 +140,52 @@ Last evidence-based incremental update: **2026-09-28**
 - A recurring error can move a unit to **weak** even if the rule is understood conceptually.
 - When evidence improves but is not sufficient for promotion, keep the status and record the direction of progress in the change log.
 - Keep unit-level status and topic-level evidence together in this `state.md`; do not create a separate grammar-state file.
+
+## IELTS Topic Retelling Progress
+
+Use IELTS-style general topics as a separate Retelling stream alongside professional/product stories.
+
+The canonical **topic plan** lives in `curriculum.md`. This section records only actual progress and counts.
+
+### Status rules
+
+- `0` — planned / assigned but no completed retelling yet;
+- `1` — first retelling completed;
+- `2` — full cycle completed: first retelling → correction/natural version → second retelling;
+- counts above `2` are allowed when a topic/story is deliberately revisited later;
+- count only completed learner retellings; do not infer attempts from an assigned prompt.
+
+### Topic coverage
+
+| Topic category | Completed retellings | Covered stories / notes |
+|---|---:|---|
+| People | 0 | — |
+| Places | 0 | — |
+| Experiences | 0 | `A memorable journey` assigned as the next story; no completed retelling yet |
+| Work & study | 2 | `A skill you learned` — colleague improving presentation skills; full two-retelling cycle completed |
+| Technology | 0 | — |
+| Objects | 0 | — |
+| Media & culture | 0 | — |
+| Activities | 0 | — |
+| Communication | 0 | — |
+| Future plans | 0 | — |
+
+### IELTS Retelling workflow
+
+For each story:
+1. present the story;
+2. learner gives the first retelling;
+3. correct the most important errors and provide a natural version;
+4. learner retells the **same story a second time**;
+5. only then move to the next story.
+
+Do not skip the second retelling merely because the first attempt was strong.
+
+### Current IELTS Retelling evidence
+
+- `A skill you learned / better presentation skills`: **2 completed retellings**; full cycle complete.
+- `A memorable journey`: **0 completed retellings**; assigned as the next story.
+- Do not backfill counts for older IELTS discussions unless a completed retelling is explicitly recoverable from the learning history.
 
 ## Grammar and Lexical Priorities
 
@@ -220,7 +266,8 @@ Recent work has included:
 - professional phrasal-verb practice with semantic discrimination between related verbs;
 - interview answer practice and professional analytical explanations;
 - short retelling exercises based on product and operational problems;
-- reconstructing causal sequences in retelling using the learner's own words.
+- reconstructing causal sequences in retelling using the learner's own words;
+- IELTS-style topic retelling with a mandatory second retelling after correction.
 
 Recent Retelling performance shows that the learner can usually preserve the key chain:
 **problem → investigation → finding → action → result**.
@@ -236,6 +283,6 @@ The main Retelling limitation remains language automaticity rather than comprehe
 5. Keep Real-time Speaking at B1+/B2- transition difficulty: short spontaneous professional answers followed by realistic follow-up questions.
 6. Transfer grammar that succeeds in controlled drills into Prepared Speaking, Retelling, and then Real-time Speaking.
 7. Continue interview practice, especially concise answers about experimentation experience, analytical decisions, failures, stakeholder communication, and professional background.
-8. Continue Retelling with gradual increases in length without increasing difficulty too quickly.
+8. Continue both professional Retelling and IELTS Topic Retelling; for IELTS stories, complete the two-retelling cycle and update the topic counts.
 9. Maintain roughly a 60/40 balance between interview preparation and everyday workplace English.
 10. Keep CEFR ratings conservative. Raise a track only after the higher-level performance is sustained across multiple sessions and task types.

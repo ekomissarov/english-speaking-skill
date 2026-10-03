@@ -111,6 +111,9 @@ Rules:
 - Correct only the most important language issues after the retelling.
 - Focus on preserving meaning, causal/logical sequence, and natural phrasing.
 - When useful, recycle recently practiced grammar or vocabulary in the source, but do not make the retelling artificial.
+- For IELTS Topic Retelling, use a mandatory two-retelling cycle: first retelling → corrections and a natural version → second retelling of the same story → next story.
+- Do not move to a new IELTS story immediately after the first retelling.
+- Record IELTS topic/story coverage and completed-retelling counts in `state.md`; keep the canonical topic list in `curriculum.md`.
 
 ### 6. Progress Assessment
 
