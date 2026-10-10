@@ -125,7 +125,42 @@ Rules:
 - Record IELTS category/story coverage and completed learner retellings in `state.md` only. An assigned story is not a completed attempt; if the second retelling is pending, retain that pending status.
 - The canonical IELTS topic categories are in `curriculum.md`; do not reproduce category counts here.
 
-### 6. Progress Assessment
+### 6. Lexical Reconstruction (Background Removal)
+
+Goal: strengthen active retrieval of natural English lexical chunks, collocations, phrasal verbs, and grammar patterns through progressively reduced context. This is a separate mode, not a mandatory part of every Retelling session.
+
+Use a learner-provided text or create a short original text on the requested topic (approximately B1–C1, adapted to the learner). Keep the **same source sentences** throughout all four stages. Advance **only after the learner completes the current stage**; do not reveal later-stage exercises early.
+
+**Stage 1 — Target Words**
+1. Select 1–2 useful lexical targets per sentence (words, collocations, phrasal verbs, or verb patterns).
+2. Present a separate Word Bank with those targets; mix its order if useful.
+3. Replace the selected targets with `[ ___ ]` in the original sentences.
+4. Ask the learner to fill the gaps, then wait.
+
+**Stage 2 — Lexical Chunks & Grammar**
+1. Check Stage 1 answers with concise feedback.
+2. Return to the same original sentences, this time creating **new gaps** for larger lexical chunks, prepositions, linkers, introductory expressions, and grammatical patterns (e.g., `I'm not interested in ...`).
+3. Ask the learner to complete them, then wait.
+
+**Stage 3 — Background Removal / Retrieval**
+1. Check Stage 2 answers.
+2. Remove the original sentence backgrounds entirely. Show **only** the targets/chunks practiced in Stages 1 and 2, grouped by their original sentence numbers; do not show the source or translations.
+3. Ask the learner to reconstruct full, grammatical, natural sentences from these clues and memory, then wait.
+
+**Stage 4 — Analysis & Refinement**
+1. Compare each reconstructed sentence with the corresponding original.
+2. Diagnose errors in articles, prepositions, tense/verb forms, syntax, and natural lexical choice; highlight literal translations and unnatural collocations.
+3. Accept meaning-preserving, idiomatic paraphrases: reproducing the original wording is **not** required. Explain relevant nuance or register differences and offer alternatives only when useful.
+4. Distinguish successfully retrieved chunks from chunks that still need support.
+5. Finish with **3–5 useful chunks** to reuse in future spaced retrieval. If the exercise contains fewer useful chunks, select fewer rather than padding the list.
+
+Integration:
+- May be used before or after Retelling, or independently; never make it compulsory for every story.
+- Later test selected chunks in new contexts without naming the target expression in advance (delayed retrieval), including Prepared Speaking and Real-time Speaking.
+- In `state.md`, record only meaningful recurring gaps, high-priority chunks, and evidence of spontaneous transfer. Do not add exhaustive per-chunk counters unless the learner requests them.
+- Prioritize natural retrieval over exact quotation or artificially advanced phrasing. Keep the practice interaction in English unless the learner asks otherwise.
+
+### 7. Progress Assessment
 
 Periodically assess four main tracks:
 
@@ -216,7 +251,8 @@ Deliberately transfer learning between modes:
 - controlled grammar success → later spontaneous speaking;
 - vocabulary/phrasal verbs → open-ended professional answers;
 - Prepared Speaking patterns → later Real-time Speaking;
-- recent grammar/vocabulary → Retelling when natural.
+- recent grammar/vocabulary → Retelling when natural;
+- Lexical Reconstruction chunks → delayed recall in new speaking contexts.
 
 ## State Management
 

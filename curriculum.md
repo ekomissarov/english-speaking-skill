@@ -203,6 +203,19 @@ Two complementary content streams:
 
 A category can have multiple distinct stories. Completing one story does not mean the whole category is mastered. The **story protocol, correction cycle and difficulty adaptation** belong to `SKILL.md`; category/story attempts and their statuses belong to `state.md`.
 
-## 6. Transfer Targets
+## 6. Lexical Reconstruction
+
+Active retrieval of lexical chunks from short texts through progressively reduced contextual support.
+
+Learning targets:
+- high-frequency collocations and multiword expressions;
+- phrasal verbs and useful verb patterns;
+- prepositions and natural linking phrases;
+- reconstruction of grammatical, idiomatic sentences from minimal clues;
+- recognition of natural paraphrases and transfer to spontaneous speaking.
+
+This mode can use the same professional, everyday, and IELTS-style subject areas as Retelling, but is not required before every retelling. The **four-stage exercise protocol** is defined only in `SKILL.md`; actual recurring lexical gaps or transfer evidence belong in `state.md`.
+
+## 7. Transfer Targets
 
 The curriculum aims for both **controlled accuracy** and **unprompted production** in realistic work, interview and general-purpose speech. Use the transfer protocol in `SKILL.md` and record the actual observed ability in `state.md`.
