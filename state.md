@@ -1,6 +1,6 @@
 # Current State
 
-Updated: 2026-10-03
+Updated: 2026-10-11
 
 ## Current Assessment
 
@@ -76,7 +76,7 @@ Where useful, record the **last checked date**. Do not mark a unit as stable aft
 ### Current topic-level evidence
 
 - **Articles:** weak, especially in spontaneous speech.
-- **Gerund vs infinitive / verb patterns:** learning / weak; intensive practice in late September shows improvement but recurring lexical-pattern errors remain.
+- **Gerund vs infinitive / verb patterns:** weaknesses persist despite improving retrieval; recent `stop -ing/to`, `object to -ing` errors require attention; check the correct Murphy unit when drill labels are mistaken.
 - **Contrast and concession:** review / consolidation; generally reliable, with occasional form-choice errors after *despite / in spite of*.
 - **Conditionals:** review.
 - **Modal perfects:** review.
@@ -87,49 +87,238 @@ Where useful, record the **last checked date**. Do not mark a unit as stable aft
 - **used to / be used to / get used to:** review.
 - **would rather:** review.
 - **Past perfect:** review in natural spoken contexts.
-- **Prepositions / lexical grammar:** weak but improving; high priority.
+- **Prepositions / lexical grammar:** weak but improving; two isolated correct October answers do not make the whole group stable.
 
 Do not infer completion of specific Murphy units from topic familiarity alone. Keep both topic-level and unit-level progress in this `state.md` file.
 
-### Unit-level progress
+### Unit-by-unit map — updated 2026-10-11
 
-The baseline map was reconstructed from the detailed Grammar Drills assessment after Q520 (2026-09-17), covering all 145 units. It is preserved below and updated only where later practice provides meaningful evidence.
+**Integrity repair:** previous status buckets only contained 144 unique units — **Unit 72 was missing entirely**. It has been reintroduced as `Learning`, which is conservative pending a direct check of a/an vs the.
 
-Status mapping: **stable** = strong; **review** = generally known but needs spaced retrieval; **weak** = recurring errors; **learning** = insufficient/light sampling; **not covered** = not meaningfully tested.
+**Scope:** all 145 units of *English Grammar in Use*, fifth edition. The unit number refers to the book's table of contents, **not** simply the number assigned by the tutor in a drill. The single authoritative current status for each unit is in the table below.
 
-#### Stable
-**Units 1–16, 18, 20–21, 25–26, 29, 38–39, 42–44, 46, 49–50, 56, 59, 61, 65, 85–86, 92–93, 100, 102–103, 105, 111, 113**
+**Exercise numbering:** Q1–Q928 are cumulative question identifiers in the ChatGPT drill thread, not Murphy unit IDs. Q929 (Unit 68) was presented but not answered and is **not counted as a completed exercise**. Phase 2 targeted review began at Q921 (based on conversation checkpoints).
 
-#### Review
-**Units 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 57–58, 60, 63–64, 69–71, 73, 75, 79, 87–91, 94–96, 101, 106–107, 109–110, 115, 119–121, 128–129, 137–141**
+**Evidence grading:** `baseline` means the last complete individual classification from Q520 (17 Sep) and its 3 Oct correction; `checkpoint` means the later thread provides explicit unit-level information. Not all 928 answer texts are retrievable as a structured answer log, so these statuses are a *conservative, evidence-based reconstruction*, not an invented per-question scorebook. A late unit mention or a single correct response is not proof of mastery.
 
-#### Weak
-**Units 53–55, 62, 130–136**
+**Coverage ≠ mastery:** Q760 checkpoint estimated 115–120 / 145 sampled, Q868 estimated 140–141 / 145; by Q928 the first pass had been declared approximately complete. This is **not** a verified 145/145 unique-unit count. Unit 67 still lacks individually recoverable evidence; the rest of formerly untested 77, 78, 82, 83 have since been sampled.
 
-Highest-priority weaknesses:
-1. **Unit 62** — verb + preposition + -ing; repeated late-September practice still showed inconsistency with patterns such as *object to*, *be opposed to*, and *be committed to* + -ing.
-2. **Unit 53** — verb + -ing; improving, but errors still occur with lexical verb-pattern choice, including negative forms such as *admit + -ing*.
-3. **Unit 55** — verb + object + to-infinitive; improving through focused practice but not yet consistently automatic.
-4. **Units 130–136** — adjective/verb + preposition and related lexical grammar; substantial focused practice has improved retrieval, but the group should remain weak until success is repeated across sessions and spontaneous contexts.
+Status meanings:
+- `Stable`: repeatedly reliable in controlled drills (not necessarily spontaneous speaking).
+- `Review`: generally known or recently successful, but needs spaced retrieval / clarification.
+- `Weak`: repeated or particularly persistent errors.
+- `Learning`: introduced or exercised, but still insufficient evidence for confident review/stable classification.
+- `Not covered` (not verified): an individual meaningful assessment has not been confirmed; do not silently treat it as covered.
 
-#### Learning / insufficient evidence
-**Units 17, 32, 35, 37, 66, 68, 74, 76, 80–81, 84, 97–99, 104, 108, 112, 114, 116–118, 122–127, 142–145**
+#### Status totals
 
-#### Not meaningfully tested
-**Units 67, 77–78, 82–83**
+- **Stable: 43 / 145** — 1–16, 18, 20–21, 25–26, 29, 38–39, 42–44, 46, 49–50, 59, 61, 65, 85–86, 92–93, 100, 102–103, 105, 111, 113
+- **Review: 65 / 145** — 19, 22–24, 27–28, 30–31, 33–34, 36, 40–41, 45, 47–48, 51–52, 56–58, 60, 63–64, 68–71, 73, 75, 77–79, 84, 87–91, 94–99, 101, 106–110, 112, 114–116, 119–121, 128–129, 137–141
+- **Weak: 11 / 145** — 53–55, 62, 130–136
+- **Learning: 25 / 145** — 17, 32, 35, 37, 66, 72, 74, 76, 80–83, 104, 117–118, 122–127, 142–145
+- **Not Covered: 1 / 145** — 67
 
-### Changes since the 2026-09-17 comprehensive mapping
+#### Canonical unit table
 
-- **Unit 54:** **review → weak**. Late-September verb-pattern drills exposed repeated uncertainty with verbs followed by the to-infinitive, including *fail*, *afford*, and *decline*. This is now an active priority rather than ordinary spaced review.
-- **Unit 53:** remains **weak**, but evidence shows improvement; do not promote yet because errors still recur.
-- **Unit 55:** remains **weak**, with improving performance on object + to-infinitive patterns.
-- **Unit 62:** remains **weak** and is currently the clearest high-priority Murphy unit.
-- **Units 130–136:** remain **weak**. Focused fixed-preposition practice is producing improvement, but repeated cross-session retrieval is still needed before moving individual units to review.
-- **Contrast/concession-related material:** keep in **review / consolidation** rather than high-priority weakness. Recent focused practice was mostly successful, although *despite / in spite of* complement structure still occasionally needed correction.
-- **Units 137–145:** phrasal-verb practice has expanded substantially. Units 137–141 already remain in review; Units 142–145 remain learning because active coverage and semantic discrimination are not yet broad enough to promote them.
+| Unit | Current status | Evidence / reason (when new or important) |
+|---:|---|---|
+| 1 | Stable | Baseline retained; no newer unit-specific result. |
+| 2 | Stable | Baseline retained; no newer unit-specific result. |
+| 3 | Stable | Baseline retained; no newer unit-specific result. |
+| 4 | Stable | Baseline retained; no newer unit-specific result. |
+| 5 | Stable | Baseline retained; no newer unit-specific result. |
+| 6 | Stable | Baseline retained; no newer unit-specific result. |
+| 7 | Stable | Baseline retained; no newer unit-specific result. |
+| 8 | Stable | Baseline retained; no newer unit-specific result. |
+| 9 | Stable | Baseline retained; no newer unit-specific result. |
+| 10 | Stable | Baseline retained; no newer unit-specific result. |
+| 11 | Stable | Baseline retained; no newer unit-specific result. |
+| 12 | Stable | Baseline retained; no newer unit-specific result. |
+| 13 | Stable | Baseline retained; no newer unit-specific result. |
+| 14 | Stable | Baseline retained; no newer unit-specific result. |
+| 15 | Stable | Baseline retained; no newer unit-specific result. |
+| 16 | Stable | Baseline retained; no newer unit-specific result. |
+| 17 | Learning | Sampled in the late first pass; insufficient evidence of retention. |
+| 18 | Stable | Baseline retained; no newer unit-specific result. |
+| 19 | Review | Baseline retained; no newer unit-specific result. |
+| 20 | Stable | Baseline retained; no newer unit-specific result. |
+| 21 | Stable | Baseline retained; no newer unit-specific result. |
+| 22 | Review | Baseline retained; no newer unit-specific result. |
+| 23 | Review | Baseline retained; no newer unit-specific result. |
+| 24 | Review | Baseline retained; no newer unit-specific result. |
+| 25 | Stable | Baseline retained; no newer unit-specific result. |
+| 26 | Stable | Baseline retained; no newer unit-specific result. |
+| 27 | Review | Baseline retained; no newer unit-specific result. |
+| 28 | Review | Baseline retained; no newer unit-specific result. |
+| 29 | Stable | Baseline retained; no newer unit-specific result. |
+| 30 | Review | Baseline retained; no newer unit-specific result. |
+| 31 | Review | Baseline retained; no newer unit-specific result. |
+| 32 | Learning | Sampled during late first pass; needs calibration. |
+| 33 | Review | Baseline retained; no newer unit-specific result. |
+| 34 | Review | Baseline retained; no newer unit-specific result. |
+| 35 | Learning | Sampled during late first pass; needs calibration. |
+| 36 | Review | Baseline retained; no newer unit-specific result. |
+| 37 | Learning | Sampled during late first pass; needs calibration. |
+| 38 | Stable | Baseline retained; no newer unit-specific result. |
+| 39 | Stable | Baseline retained; no newer unit-specific result. |
+| 40 | Review | Baseline retained; no newer unit-specific result. |
+| 41 | Review | Baseline retained; no newer unit-specific result. |
+| 42 | Stable | Baseline retained; no newer unit-specific result. |
+| 43 | Stable | Baseline retained; no newer unit-specific result. |
+| 44 | Stable | Baseline retained; no newer unit-specific result. |
+| 45 | Review | Baseline retained; no newer unit-specific result. |
+| 46 | Stable | Baseline retained; no newer unit-specific result. |
+| 47 | Review | Baseline retained; no newer unit-specific result. |
+| 48 | Review | Baseline retained; no newer unit-specific result. |
+| 49 | Stable | Baseline retained; no newer unit-specific result. |
+| 50 | Stable | Baseline retained; no newer unit-specific result. |
+| 51 | Review | Baseline retained; no newer unit-specific result. |
+| 52 | Review | Baseline retained; no newer unit-specific result. |
+| 53 | Weak | Recurring errors with verb + -ing; overlap with Unit 56. Keep Weak. |
+| 54 | Weak | Late Sep: fail/afford/decline + to mistakes. Q600 (appears to have overlooked) correct, but one success does not erase Weak. |
+| 55 | Weak | Verb (+ object) + to: previous recurring errors; no basis for promotion. |
+| 56 | Review | Q927 stop answering vs stop to answer: meaning error; Q928 correct. Stable → Review. Questions mistakenly tagged Unit 58. |
+| 57 | Review | Review target; some go on doing / go on to do examples were assigned to 57 without checking Unit 53/56 overlap. |
+| 58 | Review | Q927–Q928 were labelled Unit 58, but stop doing vs stop to do belongs to 53/56. Do not downgrade 58 from this. |
+| 59 | Stable | Baseline retained; no newer unit-specific result. |
+| 60 | Review | Baseline retained; no newer unit-specific result. |
+| 61 | Stable | Baseline retained; no newer unit-specific result. |
+| 62 | Weak | Q867 and Q921: objected to launch → objected to launching. Repeated error; highest-priority Weak. |
+| 63 | Review | Baseline retained; no newer unit-specific result. |
+| 64 | Review | Baseline retained; no newer unit-specific result. |
+| 65 | Stable | Baseline retained; no newer unit-specific result. |
+| 66 | Learning | Included in the 66–76 sampling block; insufficient basis for promotion. |
+| 67 | Not Covered | No independently confirmed Unit 67 exercise in available checkpoints. |
+| 68 | Review | Sampled; -ing clauses and contrast with Unit 97 need review. Q929 assigned, unanswered. |
+| 69 | Review | Baseline retained; no newer unit-specific result. |
+| 70 | Review | Baseline retained; no newer unit-specific result. |
+| 71 | Review | Baseline retained; no newer unit-specific result. |
+| 72 | Learning | Missing entirely from prior status buckets; added as Learning pending direct a/an vs the check. |
+| 73 | Review | Baseline retained; no newer unit-specific result. |
+| 74 | Learning | Included in 66–76 sample; individual outcomes not recovered. |
+| 75 | Review | Baseline retained; no newer unit-specific result. |
+| 76 | Learning | Sampled; Q760 checkpoint still developing. Retain Learning. |
+| 77 | Review | Assessed by about Q774; strong in checkpoint. Promoted to Review, not Stable. |
+| 78 | Review | Assessed by about Q774; strong in checkpoint. Promoted to Review, not Stable. |
+| 79 | Review | Sampled Q760–Q820; developing, stay Review. |
+| 80 | Learning | Sampled Q760–Q820; developing, stay Learning. |
+| 81 | Learning | Sampled Q760–Q820; improving, stay Learning. |
+| 82 | Learning | Sampled Q760–Q820; developing. Previously Not covered. |
+| 83 | Learning | Sampled Q760–Q820; developing. Previously Not covered. |
+| 84 | Review | Q822 checkpoint: needs spaced review. Learning → Review. |
+| 85 | Stable | Baseline retained; no newer unit-specific result. |
+| 86 | Stable | Baseline retained; no newer unit-specific result. |
+| 87 | Review | Baseline retained; no newer unit-specific result. |
+| 88 | Review | Baseline retained; no newer unit-specific result. |
+| 89 | Review | Baseline retained; no newer unit-specific result. |
+| 90 | Review | Baseline retained; no newer unit-specific result. |
+| 91 | Review | Baseline retained; no newer unit-specific result. |
+| 92 | Stable | Baseline retained; no newer unit-specific result. |
+| 93 | Stable | Baseline retained; no newer unit-specific result. |
+| 94 | Review | Baseline retained; no newer unit-specific result. |
+| 95 | Review | Baseline retained; no newer unit-specific result. |
+| 96 | Review | Baseline retained; no newer unit-specific result. |
+| 97 | Review | Sampled; active/passive reduced clauses still require review. |
+| 98 | Review | Q822 checkpoint: strong. Learning → Review, not yet Stable. |
+| 99 | Review | Q822 checkpoint: strong. Learning → Review, not yet Stable. |
+| 100 | Stable | Baseline retained; no newer unit-specific result. |
+| 101 | Review | Baseline retained; no newer unit-specific result. |
+| 102 | Stable | Baseline retained; no newer unit-specific result. |
+| 103 | Stable | Baseline retained; no newer unit-specific result. |
+| 104 | Learning | Q822 checkpoint: developing; retain Learning. |
+| 105 | Stable | Baseline retained; no newer unit-specific result. |
+| 106 | Review | Baseline retained; no newer unit-specific result. |
+| 107 | Review | Baseline retained; no newer unit-specific result. |
+| 108 | Review | Q822 checkpoint: strong. Learning → Review. |
+| 109 | Review | Baseline retained; no newer unit-specific result. |
+| 110 | Review | Baseline retained; no newer unit-specific result. |
+| 111 | Stable | Baseline retained; no newer unit-specific result. |
+| 112 | Review | Q822 checkpoint: mostly correct. Learning → Review. |
+| 113 | Stable | Baseline retained; no newer unit-specific result. |
+| 114 | Review | in case vs in case of vs if: explicitly flagged for spaced review. Learning → Review. |
+| 115 | Review | Baseline retained; no newer unit-specific result. |
+| 116 | Review | Q822 checkpoint: mostly correct. Learning → Review. |
+| 117 | Learning | Q822: developing on like vs as; retain Learning. |
+| 118 | Learning | as if / as though, factual vs hypothetical; uncertainty persists. Learning. |
+| 119 | Review | Baseline retained; no newer unit-specific result. |
+| 120 | Review | Baseline retained; no newer unit-specific result. |
+| 121 | Review | Baseline retained; no newer unit-specific result. |
+| 122 | Learning | Q826 correct. on time vs in time belongs to 122, not 123; a single success does not mean Stable. |
+| 123 | Learning | Do not associate on time/in time with Unit 123; explicitly test in/at/on (position) 1. |
+| 124 | Learning | in/at/on (position) 2: review needed, insufficient repeated-success evidence. |
+| 125 | Learning | Sampled in late first pass; individual correctness not recovered. |
+| 126 | Learning | Sampled in late first pass; individual correctness not recovered. |
+| 127 | Learning | Sampled in late first pass; individual correctness not recovered. |
+| 128 | Review | Baseline retained; no newer unit-specific result. |
+| 129 | Review | Noun + preposition; flagged for spaced review. |
+| 130 | Weak | Q869 correct. Previous adjective + preposition mistakes persist; retain Weak. |
+| 131 | Weak | Q870 status could not be confirmed; retain Weak. |
+| 132 | Weak | Q868 attributed ... to correct; retain Weak due earlier repeated verb + preposition errors. |
+| 133 | Weak | Previous errors in the 130–136 preposition family; retain Weak. |
+| 134 | Weak | Previous errors in the 130–136 preposition family; retain Weak. |
+| 135 | Weak | Previous errors in the 130–136 preposition family; retain Weak. |
+| 136 | Weak | Previous errors in the 130–136 preposition family; retain Weak. |
+| 137 | Review | Baseline retained; no newer unit-specific result. |
+| 138 | Review | Flagged for review; phrasal verbs 2 (in/out). |
+| 139 | Review | Baseline retained; no newer unit-specific result. |
+| 140 | Review | Baseline retained; no newer unit-specific result. |
+| 141 | Review | Flagged for review; phrasal verbs 5 (on/off 2). |
+| 142 | Learning | Sampled during first pass; insufficient evidence of repeated correct retrieval. |
+| 143 | Learning | Sampled during first pass; insufficient evidence of repeated correct retrieval. |
+| 144 | Learning | Sampled during first pass; insufficient evidence of repeated correct retrieval. |
+| 145 | Learning | Sampled during first pass; insufficient evidence of repeated correct retrieval. |
 
-Last comprehensive mapping: **2026-09-17**  
-Last evidence-based incremental update: **2026-10-03**
+#### Unit-status changes since the GitHub snapshot of 2026-10-03
+
+- **Unit 56: Stable → Review** — Q927 stop answering vs stop to answer: meaning error; Q928 correct. Stable → Review. Questions mistakenly tagged Unit 58.
+- **Unit 68: Learning → Review** — Sampled; -ing clauses and contrast with Unit 97 need review. Q929 assigned, unanswered.
+- **Unit 77: Not Covered → Review** — Assessed by about Q774; strong in checkpoint. Promoted to Review, not Stable.
+- **Unit 78: Not Covered → Review** — Assessed by about Q774; strong in checkpoint. Promoted to Review, not Stable.
+- **Unit 82: Not Covered → Learning** — Sampled Q760–Q820; developing. Previously Not covered.
+- **Unit 83: Not Covered → Learning** — Sampled Q760–Q820; developing. Previously Not covered.
+- **Unit 84: Learning → Review** — Q822 checkpoint: needs spaced review. Learning → Review.
+- **Unit 97: Learning → Review** — Sampled; active/passive reduced clauses still require review.
+- **Unit 98: Learning → Review** — Q822 checkpoint: strong. Learning → Review, not yet Stable.
+- **Unit 99: Learning → Review** — Q822 checkpoint: strong. Learning → Review, not yet Stable.
+- **Unit 108: Learning → Review** — Q822 checkpoint: strong. Learning → Review.
+- **Unit 112: Learning → Review** — Q822 checkpoint: mostly correct. Learning → Review.
+- **Unit 114: Learning → Review** — in case vs in case of vs if: explicitly flagged for spaced review. Learning → Review.
+- **Unit 116: Learning → Review** — Q822 checkpoint: mostly correct. Learning → Review.
+
+#### Source-tag corrections (essential for valid per-unit tracking)
+
+- **Q927–Q928:** Drill was labelled *Unit 58*, but its contrast `stop answering` vs `stop to answer` belongs to **Units 53/56** in the fifth edition. Q927 was incorrect, Q928 correct. Review **56**; do not downgrade **58** for this evidence.
+- **`on time` vs `in time`:** belongs to **Unit 122**, not Unit 123. Unit 123 covers `in/at/on (position) 1`. Earlier summaries referring to Unit 123 for this distinction should be read as Unit 122.
+- **`go on doing` vs `go on to do`:** the construction overlaps verb-pattern material; verify the particular exercise before attributing it only to Unit 57. Do not let an unverified mapping drive a status downgrade.
+- **Units 68 vs 97:** both involve participial forms, but Unit 68 is *-ing clauses* and Unit 97 is *-ing and -ed reduced relative clauses*. Track accuracy separately.
+- **Units 130–136:** correct answers to individual items (Q868, Q869) improve evidence but do not immediately erase persistent preposition errors.
+
+#### Confirmed recent exercise anchors
+
+| Exercise/checkpoint | Unit | Outcome | What it changes |
+|---|---:|---|---|
+| Q520, 17 Sep | All (baseline map) | Earlier full classification | Baseline for the 145-unit register |
+| Q600 | 54 | Correct: `appears to have overlooked` | Improvement; Weak retained |
+| Q774 vicinity | 77–78 | Assessed, strong in checkpoint | Both moved from Not covered to Review |
+| Q820–Q822 checkpoint | 82–84, 98–99, 104, 108, 112, 114, 116–118 | Assorted developing / mostly correct / strong | Conservative updates described in the per-unit table |
+| Q826 | 122 | Correct | Evidence of coverage; still Learning |
+| Q867 | 62 | Incorrect: `objected to launch` | Keep Weak |
+| Q868 | 132 | Correct: `attributed ... to` | Improvement; Weak retained |
+| Q869 | 130 | Correct | Improvement; Weak retained |
+| Q921 | 62 | Incorrect: `objected to launch` | Confirms recurring weakness |
+| Q927 | 53/56 (labelled 58) | Incorrect meaning: `stopped answering` vs `stopped to answer` | Unit 56 Stable → Review; repair label |
+| Q928 | 53/56 (labelled 58) | Correct: `stopped running` | Partial improvement; Q928 completed |
+| Q929 | 68 | Assigned, unanswered | Next exercise; do not count as completed |
+
+#### Operational review priorities (not additional statuses)
+
+1. **Highest:** 62 (*object to + -ing* and other preposition + -ing patterns); verb-pattern distinctions 53–57, particularly **56**.
+2. **Targeted correction:** 68 vs 97, 114 (*in case* vs *in case of* vs *if*), 118 (*as if*), 122 (*on time* vs *in time*), 123–124 (location prepositions), 57–58 as needed.
+3. **Lexical grammar:** 130–136, with special repetition of 130–132 and verb/adjective + preposition patterns.
+4. **Recently sampled:** 17, 32, 35, 37, 67, 79–83, 104, 117, 123–127, 142–145 — these require calibration, not automatic demotion.
+5. **Low-frequency spaced retrieval:** Stable and Review units. Prioritize new areas and recurring errors rather than repeating familiar units indefinitely.
+
+**Next test:** Q929, Unit 68. Continue with *one exercise at a time* in English; don't reveal the answer. Keep the learner's preference for first-pass coverage, but treat first pass as provisionally done and independently verify Unit 67 if a reliable Q-reference is still unavailable.
 
 ### Unit tracking rules
 
@@ -161,7 +350,7 @@ The canonical **topic plan** lives in `curriculum.md`. This section records only
 |---|---:|---|
 | People | 0 | — |
 | Places | 0 | — |
-| Experiences | 0 | `A memorable journey` assigned as the next story; no completed retelling yet |
+| Experiences | 1 | `A memorable journey` — first retelling recorded, second pending |
 | Work & study | 2 | `A skill you learned` — colleague improving presentation skills; full two-retelling cycle completed |
 | Technology | 0 | — |
 | Objects | 0 | — |
@@ -184,7 +373,7 @@ Do not skip the second retelling merely because the first attempt was strong.
 ### Current IELTS Retelling evidence
 
 - `A skill you learned / better presentation skills`: **2 completed retellings**; full cycle complete.
-- `A memorable journey`: **0 completed retellings**; assigned as the next story.
+- `A memorable journey`: **1 completed retelling** (first attempt recoverable from the IELTS Topics conversation); correction/second attempt not reliably confirmed. Do not count full cycle yet.
 - Do not backfill counts for older IELTS discussions unless a completed retelling is explicitly recoverable from the learning history.
 
 ## Grammar and Lexical Priorities
@@ -276,9 +465,9 @@ The main Retelling limitation remains language automaticity rather than comprehe
 
 ## Next Priorities
 
-1. Continue targeted Murphy practice, with Units **53–55, 62, and 130–136** receiving the highest frequency.
-2. Periodically sample units currently marked **learning** or **not meaningfully tested** so that coverage of all 145 units continues to increase.
-3. Use spaced retrieval for **review** units rather than repeatedly drilling only known weaknesses.
+1. Continue **Phase 2** Murphy practice with verified problem areas: **62, 56, 68, 97, 114, 118, 122–124**, plus fixed prepositions **130–136**; recycle 53–55, 57–58 based on errors.
+2. Keep a canonical record of all 145 units; individually verify the remaining uncertain **Unit 67** and avoid overstating 100% audited first-pass coverage.
+3. Use spaced retrieval for Review units, distinguish fresh exposure from stable performance, and fix tutor unit-label errors at their source.
 4. Require repeated success across sessions before promoting a unit from weak → review or review → stable.
 5. Keep Real-time Speaking at B1+/B2- transition difficulty: short spontaneous professional answers followed by realistic follow-up questions.
 6. Transfer grammar that succeeds in controlled drills into Prepared Speaking, Retelling, and then Real-time Speaking.

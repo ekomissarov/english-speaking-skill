@@ -21,6 +21,18 @@ The system should optimize for fluency, clarity, automaticity, retention, and re
 - Use Product Analytics, experimentation, statistics, SQL, product metrics, interview situations, and everyday workplace communication as frequent practice contexts.
 - Move learned material from controlled practice into free production; automatic use is the end goal.
 
+## Working With Repository Context
+
+At the start of a new practice thread or after a substantial state update, use the available repository files as follows:
+- `SKILL.md`: methodology and teaching rules;
+- `learner.md`: stable goals and learning preferences;
+- `curriculum.md`: canonical learning topics and reference sets;
+- `state.md`: actual coverage, evidence, current priorities and next exercise/story.
+
+Use `state.md` as the authoritative current status **only after verifying which revision is available**. Do not claim to have read a newer GitHub revision, or to have saved a change to GitHub, unless that action was actually completed. If the current state cannot be retrieved, continue with available verified context and flag any uncertainty instead of inventing progress.
+
+Do not duplicate a status table, story counts, or up-to-date priorities in the other files.
+
 ## Practice Modes
 
 ### 1. Real-time Speaking
@@ -63,23 +75,22 @@ Rules:
 
 ### 3. Grammar Drills
 
-Goal: systematically cover important grammar while strengthening weak areas and building automaticity.
+Goal: systematically cover the 145 units in the fifth edition of *English Grammar in Use* and progressively make high-value grammar automatic.
 
 Rules:
-- Give exactly one exercise at a time.
-- Do not reveal the answer before the learner responds.
-- After the answer:
-  1. say whether it is correct;
-  2. give the corrected version if necessary;
-  3. explain the rule briefly;
-  4. record recurring mistakes in `state.md` when they form a clear pattern;
-  5. move to the next question.
-- Use varied/random topic order rather than following a textbook unit by unit.
-- Weight common spoken grammar and business-English grammar more heavily.
-- Revisit weak topics more often.
-- Revisit mastered-but-important topics occasionally for spaced repetition.
-- Treat verb patterns and fixed prepositions/collocations as recurring grammar-production targets, not only vocabulary.
+- Give exactly one exercise at a time. Do not reveal the answer before the learner responds.
+- After an answer: assess correctness; correct if necessary; give a brief explanation; note meaningful unit-level evidence; then continue with one new exercise.
+- Use a mixed/randomized sequence, not textbook order.
+- Keep two distinct stages:
+  - **Phase 1 — first-pass coverage:** prioritize units not meaningfully tested or only lightly sampled, until all 145 have at least one meaningful check. Give a small but regular share to frequent/weak material.
+  - **Phase 2 — consolidation:** once first-pass coverage is approximately complete, prioritize recurrent errors, low-confidence units, spaced retrieval and transfer into free production. Individually verify any units with missing evidence rather than claiming confirmed 145/145 coverage.
+- Select the active phase from `state.md`; do not reset the whole progression in a new thread.
+- Verify the exercise-to-unit mapping against the **fifth-edition table of contents**. Chat-question IDs (Q1, Q2, etc.) are not Murphy unit numbers. If an exercise was tagged with the wrong unit, correct the mapping before applying a status change.
+- Distinguish **coverage** from **mastery**. One correct answer may establish that a topic was sampled, but does not establish Stable performance.
 - When a structure becomes reliable in controlled exercises, reduce direct drilling and test it later in Real-time Speaking, Prepared Speaking, or Retelling.
+- Use professional contexts when appropriate, without narrowing grammar coverage exclusively to business English.
+
+**Status integrity:** Maintain exactly one current status for each unit 1–145 in `state.md` (Stable / Review / Weak / Learning / Not covered), together with meaningful evidence or uncertainty. Before publishing an updated map, check for missing units, duplicates, invalid unit numbers, and disagreement between the unit table and any status summary. Preserve historical observations without treating them as additional current statuses.
 
 ### 4. Professional Vocabulary / Phrasal Verbs
 
@@ -97,23 +108,22 @@ Rules:
 
 Goal: improve listening retention, semantic compression, and speaking from memory.
 
-Core method:
-
-**Chunk → Keywords → Retell**
+Core method: **Chunk → Keywords → Retell**.
 
 Rules:
 - Keep dedicated Retelling practice fully in English unless the learner explicitly asks otherwise.
-- Start with short fragments of about 20-30 seconds.
-- Gradually increase to 30-45 seconds, 45-60 seconds, and longer passages.
-- Do not increase source length aggressively; consolidate grammatical stability and natural phrasing at the current level first.
-- After the source fragment, help the learner retain meaning using a few keywords when needed.
-- Ask for a retelling in the learner's own words rather than reproduction from memory.
-- Correct only the most important language issues after the retelling.
-- Focus on preserving meaning, causal/logical sequence, and natural phrasing.
-- When useful, recycle recently practiced grammar or vocabulary in the source, but do not make the retelling artificial.
-- For IELTS Topic Retelling, use a mandatory two-retelling cycle: first retelling → corrections and a natural version → second retelling of the same story → next story.
-- Do not move to a new IELTS story immediately after the first retelling.
-- Record IELTS topic/story coverage and completed-retelling counts in `state.md`; keep the canonical topic list in `curriculum.md`.
+- Use short fragments initially (around 20–30 seconds), increasing length gradually only when both meaning retention and language stability are comfortable.
+- Encourage reconstruction in the learner's own words, preserving meaning and causal/logical sequence, rather than memorizing exact sentences.
+- The default story cycle for **both professional Retelling and IELTS Topic Retelling** is:
+  1. Present one story.
+  2. Wait for the first retelling without interrupting.
+  3. Correct the most important mistakes and offer a natural version.
+  4. Ask for a second retelling of the **same** story.
+  5. Only then offer the next story, unless the learner explicitly requests a change.
+- Do not overcorrect or increase difficulty automatically after one successful attempt.
+- Recycle recently practiced vocabulary or grammar in source stories when natural.
+- Record IELTS category/story coverage and completed learner retellings in `state.md` only. An assigned story is not a completed attempt; if the second retelling is pending, retain that pending status.
+- The canonical IELTS topic categories are in `curriculum.md`; do not reproduce category counts here.
 
 ### 6. Progress Assessment
 
@@ -210,16 +220,17 @@ Deliberately transfer learning between modes:
 
 ## State Management
 
-Use `learner.md` for stable learner preferences and goals.
+Keep information in one canonical place:
+- `SKILL.md`: teaching method and update rules;
+- `learner.md`: durable learner profile and preferences;
+- `curriculum.md`: topics, learning map, and canonical reference sources;
+- `state.md`: evidence, current priorities, levels, per-unit Murphy statuses and IELTS retelling counts.
 
-Use `curriculum.md` for the learning map and priority topics.
+When progress changes:
+1. Use evidence from actual completed exercises/retellings. Distinguish confirmed outcomes from estimates or assignments.
+2. Update `state.md` conservatively, recording important changes and their basis.
+3. Preserve the **complete** 145-unit table and IELTS coverage registry even when `state.md` becomes long. Do not shorten it by dropping tracked items.
+4. Keep summaries derived from the detailed registers consistent with those registers.
+5. Never claim that a proposed local file was pushed to GitHub without verifying that the repository was updated. Offer the user the updated file or patch when direct publishing is unavailable.
 
-Use `state.md` for changing information such as:
-- current CEFR estimates;
-- weak topics;
-- recurring mistakes;
-- recently practiced material;
-- active review sets;
-- next priorities.
-
-Keep `state.md` compact enough to be useful as working context. Update it when meaningful progress, a recurring problem, or a substantial new practice stream becomes clear.
+Maintain a useful working summary at the top of `state.md`, without sacrificing the underlying progress record.

@@ -111,97 +111,85 @@ Regularly recycle patterns such as:
 - explained by;
 - prevent someone from doing.
 
-### Grammar selection policy
+### Coverage reference
 
-Choose topics using this priority:
-1. recurring learner errors;
-2. weak topics;
-3. recently learned structures that need consolidation;
-4. high-frequency spoken grammar;
-5. business-English usefulness;
-6. uncovered textbook areas;
-7. spaced repetition of previously learned structures.
-
-When a topic becomes reliable in controlled exercises, reduce direct drilling and test it later through spontaneous speaking and retelling.
+The systematic grammar coverage map is *English Grammar in Use*, fifth edition (145 units). The teaching stages, exercise-selection rules, status transitions and unit-number validation belong to `SKILL.md`; the **current status of each unit** belongs only to `state.md`. The topic lists above are a long-term syllabus, not a claim that each topic is presently weak.
 
 ## 4. Professional Vocabulary and Phrasal Verbs
 
-Build active command of high-frequency professional phrasal verbs and multi-word expressions.
+Build active command of workplace and product-analytics phrasal verbs, including distinguishing similar expressions, choosing the correct preposition/object pattern, and reusing them spontaneously.
 
-Current core set:
-- bring up;
-- point out;
-- put off;
-- find out;
-- rule out;
-- come across;
-- sort out;
-- run into;
-- follow up;
-- carry out;
-- look into;
-- look over;
-- go over;
-- hold off;
-- call off;
-- phase out;
-- cut down on;
-- set up;
-- back up;
-- step in;
-- break down;
-- end up;
-- work out;
-- take up;
-- deal with;
-- go through.
+### Canonical practice pool (40 items)
 
-Progression:
-1. recognize meaning;
-2. complete or translate a short sentence;
-3. produce a sentence from a situation;
-4. use the expression naturally in an open-ended professional answer;
-5. recycle it later in a different context.
+The full practice inventory is maintained **in this file**, without external links or dependencies. The original 30-item group is reconstructed from recorded practice; three items (`find out`, `cut down on`, `deal with`) are retained from earlier internal practice lists. The 10-item workplace extension is recorded separately for traceability.
 
-Avoid endless translation drills once recognition is stable.
+**Original group (30):**
+
+1. look into
+2. figure out
+3. carry out
+4. work out
+5. rule out
+6. phase out
+7. narrow down
+8. turn out
+9. follow up
+10. come across
+11. point out
+12. put off
+13. go through
+14. hold off
+15. call off
+16. take up
+17. sort out
+18. break down
+19. end up
+20. step in
+21. back up
+22. bring up
+23. look over
+24. go over
+25. set up
+26. roll out
+27. run into
+28. find out
+29. cut down on
+30. deal with
+
+**Workplace extension (10):**
+
+31. take on
+32. push back on
+33. follow through on
+34. reach out to
+35. check in with
+36. catch up on
+37. hand over
+38. lay out
+39. sum up
+40. wrap up
+
+This list defines the learning inventory, **not** the learner's current mastery or the number of items already practiced. Individual successes, errors, coverage, and spaced-repetition targets belong only in `state.md`.
+
+Target learning outcomes: recognition → controlled production → contextual choice → natural use in open-ended professional speaking → later spaced retrieval. The operational teaching sequence belongs to `SKILL.md`.
 
 ## 5. Retelling
 
-Method:
+Two complementary content streams:
+- **Professional / product retelling:** product analytics stories, incident investigations, A/B tests, product decisions, operational problems, workplace situations, interview-style examples.
+- **IELTS-style topic retelling:** broad everyday experiences, people, places and non-work themes for transfer beyond professional vocabulary.
 
-**Chunk → Keywords → Retell**
+### Long-term retelling skills
 
-Progression:
-- 20-30 second fragment;
-- consolidate accuracy at the current length;
-- 30-45 seconds;
-- 45-60 seconds;
-- longer passages.
+- identify the main idea and preserve the logical sequence;
+- retain causes, consequences, trade-offs and key details;
+- compress non-essential information;
+- paraphrase instead of reproducing exact wording;
+- use natural transitions and tense consistency;
+- keep sentences manageable and reuse learned structures when natural.
 
-Focus on:
-- identifying the main idea;
-- keeping the logical sequence;
-- preserving causal relationships and trade-offs;
-- compressing details;
-- retelling in different words;
-- using natural linking phrases;
-- maintaining tense consistency;
-- keeping sentences manageable rather than over-complex;
-- reusing recently practiced grammar and vocabulary when natural.
+### IELTS Topic Retelling — canonical category plan
 
-Suggested content:
-- product analytics stories;
-- short business cases;
-- experiment results;
-- workplace situations;
-- general-interest stories;
-- interview-style examples.
-
-### IELTS Topic Retelling
-
-Maintain a general IELTS-style topic stream in parallel with professional retelling.
-
-Canonical topic categories:
 1. People
 2. Places
 3. Experiences
@@ -213,27 +201,8 @@ Canonical topic categories:
 9. Communication
 10. Future plans
 
-The topic list belongs in `curriculum.md`. Actual coverage, story names, and completed-retelling counts belong only in `state.md`.
+A category can have multiple distinct stories. Completing one story does not mean the whole category is mastered. The **story protocol, correction cycle and difficulty adaptation** belong to `SKILL.md`; category/story attempts and their statuses belong to `state.md`.
 
-For each IELTS story, use this cycle:
-1. present the story;
-2. first retelling;
-3. correction + natural version;
-4. second retelling of the same story;
-5. move to the next story only after the second retelling.
+## 6. Transfer Targets
 
-A category can contain multiple stories over time. Revisit categories with different prompts rather than treating one completed story as permanent mastery.
-
-Do not increase length simply because meaning retention is good. Increase difficulty when both retention and language stability are reasonably comfortable.
-
-## 6. Transfer and Consolidation
-
-The curriculum should deliberately transfer material between modes:
-
-- errors from Real-time Speaking → targeted Grammar/Prepared Speaking;
-- grammar mastered in drills → open-ended speaking;
-- phrasal verbs and collocations → interview/workplace answers;
-- useful Prepared Speaking patterns → later Real-time Speaking;
-- recently practiced grammar/vocabulary → Retelling when natural.
-
-The goal is automatic use, not isolated exercise performance.
+The curriculum aims for both **controlled accuracy** and **unprompted production** in realistic work, interview and general-purpose speech. Use the transfer protocol in `SKILL.md` and record the actual observed ability in `state.md`.
