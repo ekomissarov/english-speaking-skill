@@ -205,16 +205,18 @@ A category can have multiple distinct stories. Completing one story does not mea
 
 ## 6. Lexical Reconstruction
 
-Active retrieval of lexical chunks from short texts through progressively reduced contextual support.
+Active retrieval of lexical chunks from **learner-supplied texts previously used for Retelling or IELTS Topic Retelling**, through progressively reduced contextual support.
 
 Learning targets:
 - high-frequency collocations and multiword expressions;
 - phrasal verbs and useful verb patterns;
 - prepositions and natural linking phrases;
-- reconstruction of grammatical, idiomatic sentences from minimal clues;
-- recognition of natural paraphrases and transfer to spontaneous speaking.
+- reconstructing grammatical, idiomatic sentences from minimal clues;
+- recognizing natural paraphrases and transferring lexical knowledge into spontaneous speech.
 
-This mode can use the same professional, everyday, and IELTS-style subject areas as Retelling, but is not required before every retelling. The **four-stage exercise protocol** is defined only in `SKILL.md`; actual recurring lexical gaps or transfer evidence belong in `state.md`.
+**Scope:** This activity uses only texts the learner personally brings from Retelling or IELTS practice. It is not a source of newly generated topics, situations, or stories. All stages cover the **entire supplied text**, not one sentence at a time. Practice is conducted entirely in English.
+
+The **four-stage exercise procedure and progression rules** are defined exclusively in `SKILL.md`. Recurring lexical gaps or later transfer evidence belong in `state.md`.
 
 ## 7. Transfer Targets
 
